@@ -1,0 +1,20 @@
+body {
+  background: #141414;
+  color: #ffffff;
+  font-family: 'Roboto Mono', monospace;
+}
+img {
+  max-width: 100%;
+}
+
+a {
+  color:#ffffff;
+}
+
+a:hover {
+  color:#ffffff;
+}
+
+.react-multi-carousel-track {
+  height: 100%;
+}
